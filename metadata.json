@@ -1,0 +1,6 @@
+{
+  "name": "The Grand Pavilion",
+  "description": "A formal ceremonial effects application featuring atmospheric snowflake cascades and ascending balloon releases with 5-second precision controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
